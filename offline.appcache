@@ -1,0 +1,27 @@
+CACHE MANIFEST
+# INSERT_DATE Tue May 28 2013 18:05:58 GMT-0400 (EDT) # 905de816efea9ca97e9bbc8faadfb278be5bebe2
+
+CACHE:
+# START_FILES #
+//neotenic.github.io/app.js
+//neotenic.github.io/auth.js
+//neotenic.github.io/cache.js
+//neotenic.github.io/favicon.ico
+//neotenic.github.io/offline.js
+//neotenic.github.io/protobowl.css
+//neotenic.github.io/font/fontawesome-webfont.eot
+//neotenic.github.io/font/fontawesome-webfont.ttf
+//neotenic.github.io/font/fontawesome-webfont.woff
+//neotenic.github.io/img/christmas.png
+//neotenic.github.io/img/dust.png
+//neotenic.github.io/sound/ding.wav
+# END_FILES #
+
+
+//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+
+NETWORK:
+*
+
+FALLBACK:
+/ offline.html

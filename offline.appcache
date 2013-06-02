@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# INSERT_DATE Sun Jun 02 2013 13:04:52 GMT-0400 (EDT) # 23f309abf295e72406b8bb1847c4a5a23ec3c5db
+# INSERT_DATE Sun Jun 02 2013 13:22:27 GMT-0400 (EDT) # 29d0b9c9087d7a6114ade9bf41c63205eb1d4721
 
 CACHE:
 # START_FILES #
@@ -9,9 +9,6 @@ CACHE:
 //neotenic.github.io/favicon.ico
 //neotenic.github.io/offline.js
 //neotenic.github.io/protobowl.css
-//neotenic.github.io/font/fontawesome-webfont.eot
-//neotenic.github.io/font/fontawesome-webfont.ttf
-//neotenic.github.io/font/fontawesome-webfont.woff
 //neotenic.github.io/img/christmas.png
 //neotenic.github.io/img/dust.png
 //neotenic.github.io/sound/ding.wav
@@ -19,6 +16,8 @@ CACHE:
 
 
 //ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css
+//netdna.bootstrapcdn.com/font-awesome/3.1.1/font/fontawesome-webfont.woff?v=3.1.0
 
 NETWORK:
 *

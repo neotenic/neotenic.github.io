@@ -1,4 +1,4 @@
-/* protobowl_css_build_date: Sun Jun 16 2013 20:25:11 GMT-0400 (EDT) */
+/* protobowl_css_build_date: Thu Jun 20 2013 17:31:15 GMT-0400 (EDT) */
 .clearfix{*zoom:1;}.clearfix:before,.clearfix:after{display:table;content:"";line-height:0;}
 .clearfix:after{clear:both;}
 .hide-text{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0;}
@@ -952,6 +952,7 @@ input[type=range]{vertical-align:middle;height:30px;}
 .banhammer:hover{opacity:0.8;}
 .username.auth{color:#672D83;}
 .username .user-prefix{color:#259e1a;padding-right:5px;}
+.username .user-prefix.icon-eye-close{color:#91A5B3;}
 .username .user-prefix.icon-key{color:#C0A61C;}
 .username .user-prefix.icon-ban-circle{color:#c83025;}
 .annotations{word-wrap:break-word;}.annotations p{transition:opacity 0.5s;-webkit-transition:opacity 0.5s;-moz-transition:opacity 0.5s;-o-transition:opacity 0.5s;}

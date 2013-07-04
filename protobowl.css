@@ -1,4 +1,4 @@
-/* protobowl_css_build_date: Thu Jun 27 2013 19:50:50 GMT-0400 (EDT) */
+/* protobowl_css_build_date: Thu Jul 04 2013 13:44:26 GMT-0400 (EDT) */
 .clearfix{*zoom:1;}.clearfix:before,.clearfix:after{display:table;content:"";line-height:0;}
 .clearfix:after{clear:both;}
 .hide-text{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0;}
@@ -997,6 +997,7 @@ input[type=range]{vertical-align:middle;height:30px;}
 .navbar-top .navbar-inner{border-top:0;border-top-right-radius:0;border-top-left-radius:0;}.navbar-top .navbar-inner [class^="icon-"]{margin-right:7px;}
 @media (min-width:767px){.navbar-top .navbar-inner{border-radius:0;border-top:0;border-left:0;border-right:0;}}.show-sidebar{float:left;display:none;padding:12.5px 20px 12.5px;margin-left:-15px;font-size:20px;font-weight:200;color:#555555 !important;text-shadow:0 1px 0 #fcfcfc;text-decoration:none !important;}
 .christmas .timer{background:url(img/christmas.png);text-shadow:white 0 0 15px;}
+.murrica .timer-widget{background:url(img/murrica.jpg);background-size:100%;text-shadow:white 0 0 15px;}
 .earthday{background:#e8f3ea;}
 .aprilfools{background:#f5f5fc;}.aprilfools .navbar-inner{background:#000438;}.aprilfools .navbar-inner .brand,.aprilfools .navbar-inner a{color:white !important;}
 .brand .logo{color:#555555;}

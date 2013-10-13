@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# INSERT_DATE Thu Sep 05 2013 00:38:56 GMT-0400 (EDT) # ed03d24fabd149ae050771c8f3e5bbae8865a092
+# INSERT_DATE Sun Oct 13 2013 14:53:59 GMT-0400 (EDT) # 58e8ddc929dff7999b146dbc1672b9a660669f6b
 
 CACHE:
 # START_FILES #
@@ -12,6 +12,7 @@ CACHE:
 //neotenic.github.io/test.js
 //neotenic.github.io/img/christmas.png
 //neotenic.github.io/img/dust.png
+//neotenic.github.io/img/ios.png
 //neotenic.github.io/img/murrica.jpg
 //neotenic.github.io/sound/ding.wav
 # END_FILES #

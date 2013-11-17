@@ -1,9 +1,8 @@
 CACHE MANIFEST
-# INSERT_DATE Sun Nov 17 2013 18:08:06 GMT-0500 (EST) # a115031d1d7d63951fd2c3f377b84396d4078aa6
+# INSERT_DATE Sun Nov 17 2013 18:22:50 GMT-0500 (EST) # 0b687ef0c5c710862da9488323275c1925b7c243
 
 CACHE:
 # START_FILES #
-//neotenic.github.io/.DS_Store
 //neotenic.github.io/app.js
 //neotenic.github.io/auth.js
 //neotenic.github.io/cache.js

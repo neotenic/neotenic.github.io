@@ -1,4 +1,4 @@
-/* protobowl_css_build_date: Mon Mar 17 2014 17:57:32 GMT-0400 (EDT) */
+/* protobowl_css_build_date: Sun Nov 02 2014 18:19:43 GMT-0500 (EST) */
 .clearfix{*zoom:1;}.clearfix:before,.clearfix:after{display:table;content:"";line-height:0;}
 .clearfix:after{clear:both;}
 .hide-text{font:0/0 a;color:transparent;text-shadow:none;background-color:transparent;border:0;}
@@ -1005,6 +1005,6 @@ input[type=range]{vertical-align:middle;height:30px;}
 .brand .logo{color:#555555;}
 body.offline .hidden-offline{display:none !important;}
 @media (max-width:767px){body{padding-left:10px;padding-right:10px;} .show-sidebar{display:block;} body{padding-left:0;padding-right:0;} .sidebar{position:absolute;z-index:1;width:70%;margin-left:-70%;transition:margin-left 0.5s;-webkit-transition:margin-left 0.5s;-moz-transition:margin-left 0.5s;-o-transition:margin-left 0.5s;} .sidebar.shown{margin-left:0%;} .mainview{position:absolute;width:100%;} .timer-widget{display:none;} .well{padding:10px;} .bundle.active .answer{display:none;} .navbar{margin-bottom:10px;} .breadcrumb{margin-bottom:10px;}}@media print{.buttonbar{display:none;} .navbar{display:none;} .bundle .readout{display:block !important;}}.progress .bar{-webkit-transition:none;-moz-transition:none;-ms-transition:none;-o-transition:none;transition:none;}
-.bookmark-2 .icon-star{color:#7CD370 !important;}
+​ .bookmark-2 .icon-star{color:#7CD370 !important;}
 .bookmark-3 .icon-star{color:#D4C343 !important;}
 .bookmark-4 .icon-star{color:#CC0000 !important;}

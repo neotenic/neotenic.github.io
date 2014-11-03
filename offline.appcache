@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# INSERT_DATE Mon Mar 17 2014 17:57:32 GMT-0400 (EDT) # d301777dd92b278f741998c33d8996d14c51e703
+# INSERT_DATE Sun Nov 02 2014 18:19:43 GMT-0500 (EST) # a01036ad11de7a79a0143d707a1d6e5a49c6dc14
 
 CACHE:
 # START_FILES #
@@ -7,6 +7,7 @@ CACHE:
 //neotenic.github.io/auth.js
 //neotenic.github.io/cache.js
 //neotenic.github.io/favicon.ico
+//neotenic.github.io/jquery.js
 //neotenic.github.io/offline.js
 //neotenic.github.io/protobowl.css
 //neotenic.github.io/test.js

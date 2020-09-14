@@ -1,22 +1,27 @@
 CACHE MANIFEST
-# INSERT_DATE Wed May 29 2019 20:18:11 GMT-0700 (Pacific Daylight Time) # b449abc57970f9c449c214f5590cec9b04d8332c
+# INSERT_DATE Thu Sep 03 2020 23:48:30 GMT-0700 (Pacific Daylight Time) # 3b4ef098ace5eec95489a88a9b835fabe81b2a63
 
 CACHE:
 # START_FILES #
-//neotenic.github.io/app.js
-//neotenic.github.io/auth.js
-//neotenic.github.io/cache.js
-//neotenic.github.io/favicon.ico
-//neotenic.github.io/jquery.js
-//neotenic.github.io/offline.js
-//neotenic.github.io/protobowl.css
-//neotenic.github.io/test.js
-//neotenic.github.io/img/android.png
-//neotenic.github.io/img/christmas.png
-//neotenic.github.io/img/dust.png
-//neotenic.github.io/img/ios.png
-//neotenic.github.io/img/murrica.jpg
-//neotenic.github.io/sound/ding.wav
+/app.js
+/auth.js
+/cache.js
+/favicon.ico
+/jquery.js
+/manifest.json
+/offline.js
+/protobowl.css
+/service-worker.js
+/test.js
+/img/android.png
+/img/apple-touch-icon.png
+/img/christmas.png
+/img/dust.png
+/img/icon-transparent.png
+/img/ios.png
+/img/murrica.jpg
+/img/touch-icon.png
+/sound/ding.wav
 # END_FILES #
 
 
